@@ -20,7 +20,7 @@ pipeline {
             steps {
                 git branch: 'main',
                     credentialsId: 'github_simplybyte_credentials',
-                    url: 'https://github.com/simplybyte1266/simplybyte-frontend.git'
+                    url: 'https://github.com/SanthoshRamachandiran/Demo-Continue-Integration.git'
             }
         }
 
